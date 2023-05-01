@@ -1,5 +1,5 @@
 # Login Modal Project
 
-Login Modal mini-project from my Tailwind course.
+Login Modal mini-project from a Tailwind course.
 
 ![Alt text](images/login-modal.png)
